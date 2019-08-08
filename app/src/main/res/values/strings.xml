@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScreenLocerApp</string>
+    <string name="button_one_text"></string>
+    <string name="button_two_text">ABC</string>
+    <string name="button_three_text">DEF</string>
+    <string name="button_four_text">GHI</string>
+    <string name="button_five_text">JKL</string>
+    <string name="button_six_text">MNO</string>
+    <string name="button_seven_text">PQRS</string>
+    <string name="button_eight_text">TUV</string>
+    <string name="button_nine_text">WXYZ</string>
+    <string name="button_zero_text">+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
