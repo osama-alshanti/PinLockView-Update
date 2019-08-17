@@ -1,5 +1,5 @@
 # PinLockView-Update
-The project run without import the library in your project because classes already exist , just add classes and go-ahead
+The project run without import the library in your project because classes already exist , just add classes and get start
 
 This update includes : 
 
