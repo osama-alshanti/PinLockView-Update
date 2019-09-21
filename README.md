@@ -9,12 +9,12 @@ Fix "Delete button .
 
 Added configurations for the addition of letters under buttons.
 
-Add animation in Fragment (slidein right - slideout left ).
+Added animation in Fragment (slidein right - slideout left ).
 
-Add animation in IndicatorDots.
+Added animation in IndicatorDots.
 
-Add vibrate at Wrong typing.
+Added vibrate at Wrong typing.
 
-Add sounds OnTuch PinLockView.
+Added sounds OnTuch PinLockView.
 
-Add Emergency-call Fragment.
+Added Emergency-call Fragment.
